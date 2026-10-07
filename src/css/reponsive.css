@@ -1,0 +1,7 @@
+@media (max-width: 768px) {
+    .footer {
+        position: relative;
+        z-index: 2;
+        transform: translateY(-40px);
+    }
+};
